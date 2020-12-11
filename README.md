@@ -68,9 +68,7 @@ The following are the expected  learning  outcomes  of the course:
 
 ## References
 [1] [Cybersecurity Curricula 2017](https://cybered.hosting.acm.org/wp-content/uploads/2018/02/newcover_csec2017.pdf), Curriculum Guidelines for Post-Secondary Degree Programs in Cybersecurity, 2017,
- 
 [2] [National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181.pdf), NIST Special Publication 800-181, 
- 
 [3] [Social Engineering](https://www.pace.edu/its/it-security/social-engineering),
 [4] [Top 9 Phishing Simulators](https://resources.infosecinstitute.com/top-9-free-phishing-simulators/#gref)
 
