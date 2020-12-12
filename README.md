@@ -1,7 +1,7 @@
 ## Course Update
 (December 2020) The course repository created on Github. 
 
-# Instructional Materials for the Social Engineering Course
+# Instructional Materials for the ''Social Engineering'' Course
 ## Texas Tech University, A joint effort between the 1) Computer Science Department, and 2) Department of Psychological Sciences
 ## Designed and Taught by: 1) Dr. Akbar Namin (Computer Science Department), and 2) Dr. Keith S. Jones (Department of Psychological Sciences)
 ###### A course on "Digital Forensics" designed and offered as a cross-listed course at Texas Tech University 2020
