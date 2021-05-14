@@ -114,7 +114,9 @@ Students will be graded based on assignments, exams, and the project (tentative)
 ## Acknowledgements
 In preperation of this course including lecture notes, lab assignments, case studies, and hands-on experiences many graduate students involved. In particular, these graduate students contributed to the development of the course through donating their created artifacts:
 
-* TBD 
+* Pranisha Khadka (SET Tutorial)
+* Kritika Giree (SET Tutorial)
+* Bhuwan Ratala Joshi (SET Tutorial)
 * 
 
 
