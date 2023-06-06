@@ -117,7 +117,8 @@ In preperation of this course including lecture notes, lab assignments, case stu
 * Pranisha Khadka (SET Tutorial)
 * Kritika Giree (SET Tutorial)
 * Bhuwan Ratala Joshi (SET Tutorial)
-* 
+* Denish Otieno (SE Education - Online Materials)
+* Saroj Gopali (SE Tools)
 
 
 ## Special Thanks
